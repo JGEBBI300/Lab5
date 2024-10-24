@@ -7,6 +7,6 @@ class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello, World");
-        System.out.rpintln("Test Line")
+        System.out.rpintln("Test Line");
     } 
 }
